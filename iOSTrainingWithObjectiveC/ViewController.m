@@ -18,8 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 
-    NSString * a = @"My 1st String in Objective C";
-    NSLog(@"%@",a);
+    NSString * firstString = @"My 1st String in Objective C";
+    NSLog(@"%@",firstString);
 
 }
 
