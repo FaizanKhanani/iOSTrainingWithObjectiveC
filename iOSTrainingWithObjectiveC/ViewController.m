@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+
+    NSString * a = @"My 1st String in Objective C";
+    NSLog(@"%@",a);
+
 }
 
 - (void)didReceiveMemoryWarning {
